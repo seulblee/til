@@ -8,4 +8,4 @@ til
 - [유니티 언리얼 장단점](https://velog.io/@seulblee/%EC%9C%A0%EB%8B%88%ED%8B%B0%EC%99%80-%EC%96%B8%EB%A6%AC%EC%96%BC-%EC%9E%A5%EB%8B%A8%EC%A0%90)
 - [XR? (1.VR/AR/AV/MR)](https://velog.io/@seulblee/XR%EC%9D%B4%EB%9E%80)
 - [XR? (2.다양한 분야)](https://velog.io/@seulblee/XR%EC%9D%B4%EB%9E%80-jzhemt17)
-- [XR? (3.국가별)](https://velog.io/@seulblee/XR-3.-%EA%B5%AD%EA%B0%80%EB%B3%84z)
+- [XR? (3.국가별)](https://velog.io/@seulblee/XR-3%EA%B5%AD%EA%B0%80%EB%B3%84)
