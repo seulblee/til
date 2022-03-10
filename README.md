@@ -9,3 +9,4 @@ til
 - [XR? (1.VR/AR/AV/MR)](https://velog.io/@seulblee/XR%EC%9D%B4%EB%9E%80)
 - [XR? (2.다양한 분야)](https://velog.io/@seulblee/XR%EC%9D%B4%EB%9E%80-jzhemt17)
 - [XR? (3.국가별)](https://velog.io/@seulblee/XR-3%EA%B5%AD%EA%B0%80%EB%B3%84)
+- [마이크로](https://velog.io/@seulblee/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8-%ED%99%80%EB%A1%9C%EB%A0%8C%EC%A6%88)
