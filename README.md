@@ -10,3 +10,4 @@ til
 - [XR? (2.다양한 분야)](https://velog.io/@seulblee/XR%EC%9D%B4%EB%9E%80-jzhemt17)
 - [XR? (3.국가별)](https://velog.io/@seulblee/XR-3%EA%B5%AD%EA%B0%80%EB%B3%84)
 - [마이크로소프트 홀로렌즈](https://velog.io/@seulblee/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8-%ED%99%80%EB%A1%9C%EB%A0%8C%EC%A6%88)
+- [개발지식 (프론트엔드)](https://velog.io/@seulblee/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C)
