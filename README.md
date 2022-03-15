@@ -12,3 +12,4 @@ til
 - [마이크로소프트 홀로렌즈](https://velog.io/@seulblee/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8-%ED%99%80%EB%A1%9C%EB%A0%8C%EC%A6%88)
 - [개발지식 (프론트엔드)](https://velog.io/@seulblee/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C)
 - [개발지식 (모바일 앱)](https://velog.io/@seulblee/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%B1)
+- [개발지식 (백엔드)](https://velog.io/@seulblee/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D-%EB%B0%B1%EC%97%94%EB%93%9C)
