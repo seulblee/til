@@ -14,4 +14,5 @@ til
 - [개발지식 (모바일 앱)](https://velog.io/@seulblee/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%B1)
 - [개발지식 (백엔드)](https://velog.io/@seulblee/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D-%EB%B0%B1%EC%97%94%EB%93%9C)
 - [개발지식 (클라우드)](https://velog.io/@seulblee/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C)
-- [개발지식 (운영체제 &amp; 하드웨어)]()
+- [개발지식 (운영체제 &amp; 하드웨어)](https://velog.io/@seulblee/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
+- [개발지식 (프로그램에 대해)](https://velog.io/@seulblee/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%97%90-%EB%8C%80%ED%95%B4)
