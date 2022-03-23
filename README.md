@@ -18,3 +18,4 @@ til
 - [개발지식 (프로그램에 대해)](https://velog.io/@seulblee/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%97%90-%EB%8C%80%ED%95%B4)
 - [개발지식 (네트워크-네트워크의 기본)](https://velog.io/@seulblee/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98-%EA%B8%B0%EB%B3%B8)
 - [개발지식 (네트워크-프로토콜)](https://velog.io/@seulblee/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9CIPport)
+- [개발지식 (네트워크-IP/PORT)](https://velog.io/@seulblee/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-IPPORT)
