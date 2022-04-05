@@ -27,4 +27,4 @@ til
 - [개발지식 (Github)](https://velog.io/@seulblee/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D-Github)
 - [개발지식 (로그 데이터)](https://velog.io/@seulblee/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D-%EB%A1%9C%EA%B7%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0)
 - [프론트엔드(웹)-브라우저에서 웹이 동작하는 과정 1](https://velog.io/@seulblee/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C-%EC%9B%B9%EC%9D%B4-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94-%EA%B3%BC%EC%A0%95-1)
-- [프론트엔드(웹)-브라우저에서 웹이 동작하는 과정 1](https://velog.io/@seulblee/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9B%B9-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C-%EC%9B%B9%EC%9D%B4-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94-%EA%B3%BC%EC%A0%95-2)
+- [프론트엔드(웹)-브라우저에서 웹이 동작하는 과정 2](https://velog.io/@seulblee/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9B%B9-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C-%EC%9B%B9%EC%9D%B4-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94-%EA%B3%BC%EC%A0%95-2)
