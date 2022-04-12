@@ -32,3 +32,4 @@ til
 - [프론트엔드(웹)-개발에 쓰이는 라이브러리 &amp; 프레임워크 1](https://velog.io/@seulblee/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%97%90-%EC%93%B0%EC%9D%B4%EB%8A%94-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-1)
 - [프론트엔드(웹)-반응형 웹](https://velog.io/@seulblee/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9B%B9-%EB%B0%98%EC%9D%91%ED%98%95%EC%9B%B9)
 - [프론트엔드(웹)-SPA &amp; MPA](https://velog.io/@seulblee/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9B%B9-SPA-MPA)
+- [프론트엔드(웹)-크로스 브라우징](https://velog.io/@seulblee/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9B%B9-%ED%81%AC%EB%A1%9C%EC%8A%A4-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A7%95)
