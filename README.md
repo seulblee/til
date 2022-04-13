@@ -33,3 +33,4 @@ til
 - [프론트엔드(웹)-반응형 웹](https://velog.io/@seulblee/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9B%B9-%EB%B0%98%EC%9D%91%ED%98%95%EC%9B%B9)
 - [프론트엔드(웹)-SPA &amp; MPA](https://velog.io/@seulblee/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9B%B9-SPA-MPA)
 - [프론트엔드(웹)-크로스 브라우징](https://velog.io/@seulblee/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9B%B9-%ED%81%AC%EB%A1%9C%EC%8A%A4-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A7%95)
+- [프론트엔드(웹)-HTTP &amp; HTTPS](https://velog.io/@seulblee/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9B%B9-HTTP-HTTPS)
