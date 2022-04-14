@@ -34,3 +34,4 @@ til
 - [프론트엔드(웹)-SPA &amp; MPA](https://velog.io/@seulblee/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9B%B9-SPA-MPA)
 - [프론트엔드(웹)-크로스 브라우징](https://velog.io/@seulblee/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9B%B9-%ED%81%AC%EB%A1%9C%EC%8A%A4-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A7%95)
 - [프론트엔드(웹)-HTTP &amp; HTTPS](https://velog.io/@seulblee/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9B%B9-HTTP-HTTPS)
+- [모바일 앱-기본 지식1](https://velog.io/@seulblee/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%B1-%EA%B8%B0%EB%B3%B8-%EC%A7%80%EC%8B%9D1)
