@@ -36,3 +36,4 @@ til
 - [프론트엔드(웹)-HTTP &amp; HTTPS](https://velog.io/@seulblee/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9B%B9-HTTP-HTTPS)
 - [모바일 앱-기본 지식1](https://velog.io/@seulblee/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%B1-%EA%B8%B0%EB%B3%B8-%EC%A7%80%EC%8B%9D1)
 - [모바일 앱-기본 지식2](https://velog.io/@seulblee/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%B1-%EA%B8%B0%EB%B3%B8-%EC%A7%80%EC%8B%9D2)
+- [모바일 앱-IT서비스에서 동작하는 과정](https://velog.io/@seulblee/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%B1-IT%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94-%EA%B3%BC%EC%A0%95)
