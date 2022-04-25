@@ -37,3 +37,4 @@ til
 - [모바일 앱-기본 지식1](https://velog.io/@seulblee/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%B1-%EA%B8%B0%EB%B3%B8-%EC%A7%80%EC%8B%9D1)
 - [모바일 앱-기본 지식2](https://velog.io/@seulblee/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%B1-%EA%B8%B0%EB%B3%B8-%EC%A7%80%EC%8B%9D2)
 - [모바일 앱-IT서비스에서 동작하는 과정](https://velog.io/@seulblee/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%B1-IT%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94-%EA%B3%BC%EC%A0%95)
+- [모바일 앱-네이티브 앱](https://velog.io/@seulblee/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%B1-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EC%95%B1-bcstgcr0)
