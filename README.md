@@ -42,3 +42,4 @@ til
 - [모바일 앱-하이브리드 앱](https://velog.io/@seulblee/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%B1-%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C-%EC%95%B1)
 - [모바일 앱-크로스 플랫폼](https://velog.io/@seulblee/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%B1-%ED%81%AC%EB%A1%9C%EC%8A%A4-%ED%94%8C%EB%9E%AB%ED%8F%BC)
 - [모바일 앱-웹과 앱의 차이](https://velog.io/@seulblee/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%B1-%EC%9B%B9%EA%B3%BC-%EC%95%B1%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+- [모바일 앱-앱과 앱의 차이2](https://velog.io/@seulblee/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%B1-%EC%9B%B9%EA%B3%BC-%EC%95%B1%EC%9D%98-%EC%B0%A8%EC%9D%B42)
