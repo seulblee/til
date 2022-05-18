@@ -48,3 +48,4 @@ til
 - [백엔드-백엔드란?](https://velog.io/@seulblee/%EB%B0%B1%EC%97%94%EB%93%9C-%EB%B0%B1%EC%97%94%EB%93%9C%EB%9E%80)
 - [백엔드-구성에 대해](https://velog.io/@seulblee/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B5%AC%EC%84%B1%EC%97%90-%EB%8C%80%ED%95%B4)
 - [백엔드-데이터베이스](https://velog.io/@seulblee/%EB%B0%B1%EC%97%94%EB%93%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
+- [백엔드-API서버](https://velog.io/@seulblee/%EB%B0%B1%EC%97%94%EB%93%9C-API%EC%84%9C%EB%B2%84)
