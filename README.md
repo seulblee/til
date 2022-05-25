@@ -52,3 +52,4 @@ til
 - [백엔드-파일 스토리지](https://velog.io/@seulblee/%EB%B0%B1%EC%97%94%EB%93%9C-%ED%8C%8C%EC%9D%BC-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80)
 - [백엔드-캐시](https://velog.io/@seulblee/%EB%B0%B1%EC%97%94%EB%93%9C-%EC%BA%90%EC%8B%9C)
 - [백엔드-클라우드](https://velog.io/@seulblee/%EB%B0%B1%EC%97%94%EB%93%9C-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C)
+- [백엔드-클라우드 특징](https://velog.io/@seulblee/%EB%B0%B1%EC%97%94%EB%93%9C-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%ED%8A%B9%EC%A7%95)
